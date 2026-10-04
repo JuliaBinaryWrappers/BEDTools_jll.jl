@@ -1,0 +1,156 @@
+[[BEDTools]]
+arch = "aarch64"
+git-tree-sha1 = "6fa1b6eb6fc00f8513a4c2cc73814b1d50949360"
+os = "macos"
+
+    [[BEDTools.download]]
+    sha256 = "327b2c335fdfa4d4601e07819d4dd48b57c1cdd65150c522d6834de88de86907"
+    url = "https://github.com/JuliaBinaryWrappers/BEDTools_jll.jl/releases/download/BEDTools-v2.31.1+0/BEDTools.v2.31.1.aarch64-apple-darwin.tar.gz"
+[[BEDTools]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b0bec9f64a06f1f11dad1e811e01787c4f5a286b"
+libc = "glibc"
+os = "linux"
+
+    [[BEDTools.download]]
+    sha256 = "349bd5e0aef88dfff7a83246bcfbaff1bb234d2b9b6959ab7d57c7060a998f83"
+    url = "https://github.com/JuliaBinaryWrappers/BEDTools_jll.jl/releases/download/BEDTools-v2.31.1+0/BEDTools.v2.31.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[BEDTools]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "204ea6ef3fb0ae96c13829d9ec1c736ea8e058ea"
+libc = "musl"
+os = "linux"
+
+    [[BEDTools.download]]
+    sha256 = "3cce3a720622c8aea06bb93ec0d14e0e5ebcc9fb5232b5be262066cd6411a06f"
+    url = "https://github.com/JuliaBinaryWrappers/BEDTools_jll.jl/releases/download/BEDTools-v2.31.1+0/BEDTools.v2.31.1.aarch64-linux-musl-cxx11.tar.gz"
+[[BEDTools]]
+arch = "aarch64"
+git-tree-sha1 = "1248f1285584122d315c3a5bd9db44ae3a38cf3b"
+os = "freebsd"
+
+    [[BEDTools.download]]
+    sha256 = "301ff4b29b1c0e0c31399028f02f836042c8708ece9b9856c67dbc5ef2c83b66"
+    url = "https://github.com/JuliaBinaryWrappers/BEDTools_jll.jl/releases/download/BEDTools-v2.31.1+0/BEDTools.v2.31.1.aarch64-unknown-freebsd.tar.gz"
+[[BEDTools]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f12141629f0c095a1295e81aeaa034e0b4173222"
+libc = "glibc"
+os = "linux"
+
+    [[BEDTools.download]]
+    sha256 = "4771682853f37044a3318e4ad81698dbee5e4054ce2e69fa21690a697a5d1d50"
+    url = "https://github.com/JuliaBinaryWrappers/BEDTools_jll.jl/releases/download/BEDTools-v2.31.1+0/BEDTools.v2.31.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[BEDTools]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ceb7ba7144b5dd07555d5b8d5a7af7161db30d2e"
+libc = "musl"
+os = "linux"
+
+    [[BEDTools.download]]
+    sha256 = "7e308471740f376c440357fa4dd89a73e9376fb3722e5466f4a2a88601cd31fc"
+    url = "https://github.com/JuliaBinaryWrappers/BEDTools_jll.jl/releases/download/BEDTools-v2.31.1+0/BEDTools.v2.31.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[BEDTools]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ea0e94ff1d3157ccfd0ec04fdcabb84f3d31d88f"
+libc = "glibc"
+os = "linux"
+
+    [[BEDTools.download]]
+    sha256 = "ca99de2db21f30dbfd835bed0e1c848d874317b5320d454b4e2b381728268d98"
+    url = "https://github.com/JuliaBinaryWrappers/BEDTools_jll.jl/releases/download/BEDTools-v2.31.1+0/BEDTools.v2.31.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[BEDTools]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "96a5661e7d94b836d53f7d6ecfb732975ebb41e8"
+libc = "musl"
+os = "linux"
+
+    [[BEDTools.download]]
+    sha256 = "7f3dc1184d3f9ca2b209198f591c6d7c612f0697fb808ea3d9dd603b58491856"
+    url = "https://github.com/JuliaBinaryWrappers/BEDTools_jll.jl/releases/download/BEDTools-v2.31.1+0/BEDTools.v2.31.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[BEDTools]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b2fcc30d085248a43234baa67bbf70e7de39e566"
+libc = "glibc"
+os = "linux"
+
+    [[BEDTools.download]]
+    sha256 = "b3c96218e816a1ffd38f6f9543598c5902632940a3141143205d29eca6750fb3"
+    url = "https://github.com/JuliaBinaryWrappers/BEDTools_jll.jl/releases/download/BEDTools-v2.31.1+0/BEDTools.v2.31.1.i686-linux-gnu-cxx11.tar.gz"
+[[BEDTools]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b9df81d9b63aea6ccf304fcb3221757f476a41b1"
+libc = "musl"
+os = "linux"
+
+    [[BEDTools.download]]
+    sha256 = "f19024ffbf379f24fd99ffa3cb6e077cfc745b728c20cb9503ab545a4dbb0fa4"
+    url = "https://github.com/JuliaBinaryWrappers/BEDTools_jll.jl/releases/download/BEDTools-v2.31.1+0/BEDTools.v2.31.1.i686-linux-musl-cxx11.tar.gz"
+[[BEDTools]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8175c669b02d9a1eb1cdb80a44fff5041bb558cc"
+libc = "glibc"
+os = "linux"
+
+    [[BEDTools.download]]
+    sha256 = "1b21f83811b181f05f2581426da96221ff392af4289443cc16fc99e92eea7b2a"
+    url = "https://github.com/JuliaBinaryWrappers/BEDTools_jll.jl/releases/download/BEDTools-v2.31.1+0/BEDTools.v2.31.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[BEDTools]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a2bcd67d1363c5be193394685f45631ac3e315bc"
+libc = "glibc"
+os = "linux"
+
+    [[BEDTools.download]]
+    sha256 = "ac0ee44a5bb3e6f04c0f566eb4572344e44fccd7e113eb52a245fb8a18e149d7"
+    url = "https://github.com/JuliaBinaryWrappers/BEDTools_jll.jl/releases/download/BEDTools-v2.31.1+0/BEDTools.v2.31.1.riscv64-linux-gnu-cxx11.tar.gz"
+[[BEDTools]]
+arch = "x86_64"
+git-tree-sha1 = "d1393fd754c657155f9cfd39eabeda412a35921a"
+os = "macos"
+
+    [[BEDTools.download]]
+    sha256 = "3d3d52ba38916ceb8b7365765a126657596332b6935a9fdd457290f6c463f0aa"
+    url = "https://github.com/JuliaBinaryWrappers/BEDTools_jll.jl/releases/download/BEDTools-v2.31.1+0/BEDTools.v2.31.1.x86_64-apple-darwin.tar.gz"
+[[BEDTools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ea1a3e81e53f6c255501449683bd2ac30febdded"
+libc = "glibc"
+os = "linux"
+
+    [[BEDTools.download]]
+    sha256 = "a6db6c0241fb9c0e3168501c5eb19b3fc60ae46e225f0c6e26333bbc212109fa"
+    url = "https://github.com/JuliaBinaryWrappers/BEDTools_jll.jl/releases/download/BEDTools-v2.31.1+0/BEDTools.v2.31.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[BEDTools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c480abd0921e3fd35688544b7d57a4d93fb238d9"
+libc = "musl"
+os = "linux"
+
+    [[BEDTools.download]]
+    sha256 = "22fd1b4da9b273ba0f02a8e8df453141f0bba4a655671a743472e08acaf33bf3"
+    url = "https://github.com/JuliaBinaryWrappers/BEDTools_jll.jl/releases/download/BEDTools-v2.31.1+0/BEDTools.v2.31.1.x86_64-linux-musl-cxx11.tar.gz"
+[[BEDTools]]
+arch = "x86_64"
+git-tree-sha1 = "d356f1ef8ddef3c269cdba39885e8eab1aaf907a"
+os = "freebsd"
+
+    [[BEDTools.download]]
+    sha256 = "e43332efdae0c022fe0693ac1a049ae89b0bab3182c50dd14ed9458edd592e52"
+    url = "https://github.com/JuliaBinaryWrappers/BEDTools_jll.jl/releases/download/BEDTools-v2.31.1+0/BEDTools.v2.31.1.x86_64-unknown-freebsd.tar.gz"
